@@ -1,1 +1,16 @@
 FTK imager -> File -> Create Disk Image -> Logical Drive -> source kimi X diskini secirik -> image type E01 -> diger xanalari doldurmaq -> Destination secmek.
+
+
+
+
+
+FTK Imager:
+  https://www.youtube.com/watch?v=TkG4JqUcx_U
+
+Autopsy:
+  https://www.youtube.com/watch?v=WB4xj8VYotk
+  https://www.youtube.com/watch?v=FJqoUakfmdo
+  
+Volatility:
+  https://www.youtube.com/watch?v=eluS7_eSm8M&t=14s
+  https://www.youtube.com/watch?v=Cs0Gc3GtfZY
