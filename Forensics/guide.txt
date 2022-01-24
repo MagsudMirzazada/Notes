@@ -13,4 +13,3 @@ Autopsy:
   
 Volatility:
   https://www.youtube.com/watch?v=eluS7_eSm8M&t=14s
-  https://www.youtube.com/watch?v=Cs0Gc3GtfZY
