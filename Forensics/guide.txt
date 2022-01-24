@@ -1,1 +1,1 @@
-Asd
+FTK imager -> File -> Create Disk Image -> Logical Drive -> source kimi X diskini secirik -> image type E01 -> diger xanalari doldurmaq -> Destination secmek.
